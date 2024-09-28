@@ -1,0 +1,102 @@
+# = Apple
+# > Apple Websites
+DOMAIN-suffix,aaplimg.com,Apple
+DOMAIN-suffix,apple.co,Apple
+DOMAIN-suffix,apple.com,Apple
+DOMAIN-suffix,apple.cn,Apple
+DOMAIN-suffix,apple.com.cn,Apple
+DOMAIN-suffix,itunes.com,Apple
+DOMAIN-suffix,me.com,Apple
+
+# > Apple CIDR
+ip-cidr,17.0.0.0/8,Apple
+ip-cidr,63.92.224.0/19,Apple
+ip-cidr,65.199.22.0/23,Apple
+ip-cidr,139.178.128.0/18,Apple
+ip-cidr,144.178.0.0/19,Apple
+ip-cidr,144.178.36.0/22,Apple
+ip-cidr,144.178.48.0/20,Apple
+ip-cidr,192.35.50.0/24,Apple
+ip-cidr,198.183.17.0/24,Apple
+ip-cidr,205.180.175.0/24,Apple
+
+# > Apple Stores
+DOMAIN,iosapps.itunes.apple.com,Apple Domestic
+DOMAIN,osxapps.itunes.apple.com,Apple Domestic
+DOMAIN-suffix,appsto.re,Apple
+DOMAIN-suffix,mzstatic.com,Apple
+
+# > Apple Developer
+DOMAIN-suffix,adcdownload.apple.com,Apple Domestic
+DOMAIN-suffix,developer.apple.com,Apple
+
+# > iCloud
+DOMAIN-keyword,icloud,Apple
+DOMAIN-keyword,icoudo,Apple
+DOMAIN-keyword,icoudos,Apple
+DOMAIN-suffix,applemx-icloud.com,Apple
+DOMAIN-suffix,icloud-content.com,Apple
+DOMAIN-suffix,icloud-isupport.com,Apple
+DOMAIN-suffix,icloudads.net,Apple
+DOMAIN-suffix,icloudbox.net,Apple
+DOMAIN-suffix,icloudbrowser.net,Apple
+DOMAIN-suffix,icloude.com,Apple
+DOMAIN-suffix,icloudmusic.net,Apple
+DOMAIN-suffix,icloudmail.net,Apple
+DOMAIN-suffix,icloudnet.net,Apple
+DOMAIN-suffix,icloudpay.net,Apple
+DOMAIN-suffix,icloudsecure.net,Apple
+DOMAIN-suffix,myicloud.net,Apple
+DOMAIN-suffix,mail.me.com.akadns.net,Apple
+DOMAIN-suffix,www-cdn.icloud.com.akadns.net,Apple
+DOMAIN-suffix,icloud-sandbox.com,Apple
+DOMAIN-suffix,icloud.com.cn,Apple
+DOMAIN-suffix,icloud.net.cn,Apple
+
+# > Apple APIs
+# >> Location Service
+DOMAIN-suffix,ls.apple.com,Apple
+# >> Push Service
+DOMAIN,init-p01md.apple.com,Apple
+DOMAIN,init-p01st.push.apple.com,Apple
+DOMAIN,init-s01st.push.apple.com,Apple
+DOMAIN-suffix,courier-push-apple.com.akadns.net,Apple
+DOMAIN-suffix,push.apple.com,Apple
+
+# > Apple Music
+DOMAIN,hls.itunes.apple.com,Apple Music
+DOMAIN,aod.itunes.apple.com,Apple Music
+DOMAIN,mvod.itunes.apple.com,Apple Music
+DOMAIN-suffix,itunes.apple.com,Apple Music
+DOMAIN-suffix,music.apple.com,Apple Music
+DOMAIN-suffix,play.itunes.apple.com,Apple Music
+DOMAIN-suffix,phobos.apple.com,Apple Music
+DOMAIN-suffix,radio.itunes.apple.com,Apple Music
+DOMAIN-suffix,radio-activity.itunes.apple.com,Apple Music
+DOMAIN-suffix,radio-services.itunes.apple.com,Apple Music
+DOMAIN-suffix,streamingaudio.itunes.apple.com,Apple Music
+
+# > Apple Kit
+DOMAIN-suffix,apple-cloudkit.com,Apple
+DOMAIN-suffix,apple-mapkit.com,Apple Domestic
+DOMAIN-suffix,apple-livephotoskit.com,Apple
+
+# > Apple Resources Server
+DOMAIN-suffix,appldnld.apple.com,Apple Domestic
+DOMAIN-suffix,secure-appldnld.apple.com,Apple
+
+# > Apple CDNs
+DOMAIN,updates-http.cdn-apple.com,Apple Domestic
+DOMAIN-suffix,apple-support.akadns.net,Apple
+DOMAIN-suffix,apple.com.akadns.net,Apple
+DOMAIN-suffix,apple.com.cdn20.com,Apple Domestic
+DOMAIN-suffix,apple.com.edgekey.net.globalredir.akadns.net,Apple
+DOMAIN-suffix,apple.com.mwcname.com,Apple Domestic
+DOMAIN-suffix,apple.com.mwcloudcdn.com,Apple Domestic
+DOMAIN-suffix,cdn-apple.com,Apple Domestic
+DOMAIN-suffix,cdn-apple.com.akadns.net,Apple
+DOMAIN-suffix,isu.apple.com.akadns.net,Apple
+DOMAIN-suffix,origin-apple.com.akadns.net,Apple
+DOMAIN-suffix,push-apple.com.akadns.net,Apple 
+DOMAIN-suffix,prod-support.apple-support.akadns.net,Apple
+DOMAIN-suffix,digicert.com,Apple
